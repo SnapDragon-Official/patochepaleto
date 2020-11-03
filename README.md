@@ -1,6 +1,6 @@
-# patochepaleto MAPPING for FIVEMTURK
+# patochepaleto MAPPING for FIVEMSOCIETY
 
-https://www.fivemturk.com/threads/paylasim-paleto-bay-ymaps.12870/
+https://www.fivemsociety.com/konu/mlo-paleto-bay-ymaps.63/
 
 #### Kurulum
 
